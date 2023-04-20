@@ -1,6 +1,7 @@
 
 body {
-  background-color: #E8ECEF;
+  background-color: #348dd2;
+  /* background-image: url(); */
 }
 
 .centered {
@@ -11,6 +12,10 @@ body {
 .secret-text {
   text-align: center;
   font-size: 2rem;
-  color: #fff;
+  color: #32852c;
   background-color: #000;
+}
+
+.comb{
+  background-color: #348dd2;
 }
